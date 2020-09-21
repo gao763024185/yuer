@@ -14,6 +14,6 @@ public class IndexController {
 
     @RequestMapping("index")
     public String index() {
-        return "欢迎棠棠小朋友！";
+        return "欢迎棠棠小朋友 哈哈哈！";
     }
 }
